@@ -34,7 +34,7 @@ nav a {
      color: #722F37; /* bordô */
     text-align: center;
     font-size: 2.5;
-    margin-top: 20px;
+    margin-top: 60px;
     font-family: Georgia, 'Times New Roman', Times, serif, serif;
     margin-bottom: 20px;
 
@@ -58,4 +58,17 @@ nav a {
     margin-top: 60px;
     font-family: Georgia, 'Times New Roman', Times, serif, serif;
     margin-bottom: 20px;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
     
+}
+
+.video {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
